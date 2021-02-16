@@ -74,15 +74,6 @@
     "image": "bitty_looper.jpg",
     "hex": "booplooper_0102.hex",
     "sha2_hash": "stuff"
-  },
-  {
-    "title": "Other Trap",
-    "folder": "traptest2",
-    "text": "this is the cello program\nit blinks for one second",
-    "description": "description.md",
-    "image": "bitty_theremin.jpg",
-    "hex": "stomptrap_0102.hex",
-    "sha2_hash": "stuff"
   }
 ]
 }
