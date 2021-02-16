@@ -1,38 +1,79 @@
+{
+  "version": "s",
+  "info": "basic.md",
+  "catalog":
 [
   {
-    "title": "Boom Bap Crunch",
-    "folder": "Blink",
+	  "title": "Boom Bap Tweaker",
+    "folder": "boombap",
     "text": "this is the elephant program",
     "description": "description.md",
     "image": "bitty_Beach.jpg",
-    "hex": "Bitty_Red_DrumsBoomBap_09_16_2019.ino.leonardo.hex",
+    "hex": "BoomBapTweaker_0102.hex",
     "sha2_hash": "ec5jku3..."
   },
   {
-    "title": "Melody",
-    "folder": "Blink2",
-    "text": "this is the donkey program",
+	  "title": "Sunrise",
+   	"folder": "sunrisemelody",
+   	"text": "this is the donkey program",
     "description": "description.md",
-    "image": "bitty_electro.jpg",
-    "hex": "Bitty_Red_Melodic_02_11_2019.ino.leonardo.hex",
-    "sha2_hash": "stuff"
-  },
+    "image": "bitty_sunrise.jpg",
+   	"hex": "sunrise_0102.hex",
+   	"sha2_hash": "stuff"
+	},
   {
-    "title": "Bass Squares",
-    "folder": "Blink3",
+    "title": "Drones & Sprinkles",
+    "folder": "dronesandsprinkles",
     "text": "this is the theremin program",
     "description": "description.md",
-    "image": "bitty_square_02.jpg",
-    "hex": "Bitty_Red_ThaddBASS_2019_09_10_setkey.ino.leonardo.hex",
+    "image": "dronesandsprinks.jpg",
+    "hex": "dronesandsprinkles_0102.hex",
     "sha2_hash": "stuff"
   },
   {
-    "title": "Lofi Guitar",
-    "folder": "Blink4",
+    "title": "Lofi Guitar Chords",
+    "folder": "lofiguitar",
     "text": "this is the violin program",
     "description": "description.md",
     "image": "bitty_lofi.jpg",
-    "hex": "Bitty_Red_GuitarChord_ALT.ino.leonardo.hex",
+    "hex": "lofiguitar_0102.hex",
+    "sha2_hash": "stuff"
+  },
+  {
+    "title": "Stomp Trap",
+    "folder": "trapdrums",
+    "text": "this is the cello program\nit blinks for one second",
+    "description": "description.md",
+    "image": "bitty_trap.jpg",
+    "hex": "stomptrap_0102.hex",
+    "sha2_hash": "stuff"
+  },
+  {
+    "title": "Swirl",
+    "folder": "sweepsswirl",
+    "text": "this is the elephant program",
+    "description": "description.md",
+    "image": "bitty_landscape_moon.jpg",
+    "hex": "bitty_swirl.hex",
+    "sha2_hash": "ec5jku3..."
+  },
+  {
+    "title": "Baud Boy",
+    "folder": "baudboy",
+    "text": "this is the donkey program",
+    "description": "description.md",
+    "image": "bitty_baudboy.jpg",
+    "hex": "bitty_baudboy.hex",
+    "sha2_hash": "stuff"
+  },
+  {
+    "title": "Looper",
+    "folder": "looper",
+    "text": "this is the theremin program",
+    "description": "description.md",
+    "image": "bitty_looper.jpg",
+    "hex": "booplooper_0102.hex",
     "sha2_hash": "stuff"
   }
 ]
+}
