@@ -1,5 +1,5 @@
 {
-  "version": "b",
+  "version": "catalog_01",
   "info": "basic.md",
   "catalog":
 [
@@ -73,6 +73,15 @@
     "description": "description.md",
     "image": "bitty_looper.jpg",
     "hex": "booplooper_0102.hex",
+    "sha2_hash": "stuff"
+  },
+    {
+    "title": "Transmission",
+    "folder": "transmission",
+    "text": "this is the theremin program",
+    "description": "description.md",
+    "image": "transmission.jpg",
+    "hex": "transmission.hex",
     "sha2_hash": "stuff"
   }
 ]
