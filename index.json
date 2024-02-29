@@ -1,3 +1,7 @@
+{
+  "version": "catalog_01",
+  "info": "basic.md",
+  "catalog":
 [
   {
     "title": "Boom Bap Crunch",
@@ -34,5 +38,15 @@
     "image": "bitty_lofi.jpg",
     "hex": "Bitty_Red_GuitarChord_ALT.ino.leonardo.hex",
     "sha2_hash": "stuff"
+  },
+    {
+    "title": "Transmission",
+    "folder": "transmission",
+    "text": "this is the theremin program",
+    "description": "description.md",
+    "image": "transmission.jpg",
+    "hex": "transmission.hex",
+    "sha2_hash": "stuff"
   }
 ]
+}
